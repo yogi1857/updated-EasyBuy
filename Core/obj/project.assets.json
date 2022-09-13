@@ -1161,11 +1161,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\project\\Core\\Core.csproj",
+      "projectUniqueName": "D:\\EasyBuy\\Core\\Core.csproj",
       "projectName": "Core",
-      "projectPath": "D:\\project\\Core\\Core.csproj",
+      "projectPath": "D:\\EasyBuy\\Core\\Core.csproj",
       "packagesPath": "C:\\Users\\sushi\\.nuget\\packages\\",
-      "outputPath": "D:\\project\\Core\\obj\\",
+      "outputPath": "D:\\EasyBuy\\Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sushi\\AppData\\Roaming\\NuGet\\NuGet.Config",

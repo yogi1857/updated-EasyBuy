@@ -14,6 +14,7 @@ using Microsoft.OpenApi.Models;
 using Microsoft.EntityFrameworkCore;
 using Core.Entities;
 using Infrastructure.Data;
+using Core.Interfaces;
 namespace API
 {
     public class Startup
@@ -28,7 +29,7 @@ namespace API
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-
+            services.AddScoped<IProductRepo,ProductRepo>();
             services.AddControllers();
             services.AddSwaggerGen(c =>
             {

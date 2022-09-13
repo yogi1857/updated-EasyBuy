@@ -1181,11 +1181,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\project\\Infrastructure\\Infrastructure.csproj",
+      "projectUniqueName": "D:\\EasyBuy\\Infrastructure\\Infrastructure.csproj",
       "projectName": "Infrastructure",
-      "projectPath": "D:\\project\\Infrastructure\\Infrastructure.csproj",
+      "projectPath": "D:\\EasyBuy\\Infrastructure\\Infrastructure.csproj",
       "packagesPath": "C:\\Users\\sushi\\.nuget\\packages\\",
-      "outputPath": "D:\\project\\Infrastructure\\obj\\",
+      "outputPath": "D:\\EasyBuy\\Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sushi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1202,8 +1202,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\project\\Core\\Core.csproj": {
-              "projectPath": "D:\\project\\Core\\Core.csproj"
+            "D:\\EasyBuy\\Core\\Core.csproj": {
+              "projectPath": "D:\\EasyBuy\\Core\\Core.csproj"
             }
           }
         }

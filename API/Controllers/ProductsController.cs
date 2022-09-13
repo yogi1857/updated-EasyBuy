@@ -9,6 +9,7 @@ using System.Collections.Generic;
 using Core.Entities;
 using System.Threading;
 using Microsoft.EntityFrameworkCore;
+using Core.Interfaces;
 
 namespace API.Controllers
 
@@ -20,9 +21,9 @@ namespace API.Controllers
     [DebuggerDisplay($"{{{nameof(GetDebuggerDisplay)}(),nq}}")]
     public class ProductsController : ControllerBase
     {
-private readonly StoreContext _context;
-    public ProductsController(StoreContext context){
-     _context = context;
+       private readonly IProductRepo _repo;
+    public ProductsController(IProductRepo repo){
+     _repo = repo;
     }
     [HttpGet]
         private string GetDebuggerDisplay()
@@ -33,13 +34,13 @@ private readonly StoreContext _context;
         public async Task<ActionResult<List<Product>>> GetMe(){
             // execute a select query
 
-            var products = await _context.Products.ToListAsync() ;
+            var products = await _repo.GetProductsAsync() ;
             return Ok(products);
         }
         [HttpGet ("{id}")]
         public async Task<ActionResult<List<Product>>> GetMe( int id){
          
-         var ProductId=  await _context.Products.FindAsync(id);
+         var ProductId=  await _repo.GetProductByIdAsync(id);
          return Ok(ProductId);
         }
     }

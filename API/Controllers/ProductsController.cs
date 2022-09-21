@@ -21,9 +21,14 @@ namespace API.Controllers
     [DebuggerDisplay($"{{{nameof(GetDebuggerDisplay)}(),nq}}")]
     public class ProductsController : ControllerBase
     {
-       private readonly IProductRepo _repo;
-    public ProductsController(IProductRepo repo){
-     _repo = repo;
+       private readonly IGenericRepository<Product> _productRepo;
+       private readonly IGenericRepository<ProductBrand> _productBrandRepo;
+       private readonly IGenericRepository<ProductTyp> _productTypeRepo;
+
+    public ProductsController(IGenericRepository<Product> productRepo,IGenericRepository<ProductBrand>productBrandRepo,IGenericRepository<ProductTyp> productTypeRepo){
+    _productRepo = productRepo;
+    _productBrandRepo = productBrandRepo;
+    _productTypeRepo = productTypeRepo;
     }
     [HttpGet]
         private string GetDebuggerDisplay()
@@ -31,27 +36,27 @@ namespace API.Controllers
             return ToString();
         }
         [HttpGet]
-        public async Task<ActionResult<List<Product>>> GetMe(){
+        public async Task<ActionResult<List<Product>>> GetProduct(){
             // execute a select query
 
-            var products = await _repo.GetProductsAsync() ;
+            var products = await _productRepo.ListAllAsync();
             return Ok(products);
         }
         [HttpGet ("{id}")]
-        public async Task<ActionResult<List<Product>>> GetMe( int id){
+        public async Task<ActionResult<List<Product>>> GetProduct( int id){
          
-         var ProductId=  await _repo.GetProductByIdAsync(id);
+         var ProductId=  await _productRepo.GetByIdAsync(id);
          return Ok(ProductId);
         }
 
         [HttpGet("brands")]
         public async Task<ActionResult<List<ProductBrand>>> GetProductBrand(){
-            return Ok(await _repo.GetProductsBrandAsync());
+            return Ok(await _productBrandRepo.ListAllAsync());
         } 
 
            [HttpGet("types")]
         public async Task<ActionResult<List<ProductTyp>>> GetProductType(){
-            return Ok(await _repo.GetProductsTypeAsync());
+            return Ok(await _productTypeRepo.ListAllAsync());
         } 
     }
 }

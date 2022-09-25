@@ -1,11 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "UdBJoYfX7znNSBOyYYPy8Sbt1sqSxw4wdA6836SQOmeK4ErNvDnCj6efpdxlzVA6TgXQegh1Z95ZX9CqeAPllQ==",
+  "dgSpecHash": "OijFGOUzncre1L+umrmeDCpEHXMCTuprr9PEfukVmKHdPX+uK4F1I5aA6jW3jRzCy0Z4F3PmTYd3PmFeKL59eA==",
   "success": true,
   "projectFilePath": "D:\\EasyBuy\\API\\API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\sushi\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
+    "C:\\Users\\sushi\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
     "C:\\Users\\sushi\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
-    "C:\\Users\\sushi\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\sushi\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\sushi\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
     "C:\\Users\\sushi\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.1.1\\microsoft.data.sqlclient.sni.runtime.2.1.1.nupkg.sha512",
     "C:\\Users\\sushi\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.8\\microsoft.data.sqlite.core.6.0.8.nupkg.sha512",

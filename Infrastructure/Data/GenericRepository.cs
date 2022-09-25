@@ -5,6 +5,7 @@ using System.Threading.Tasks;
 using Core.Interfaces;
 using Core.Entities;
 using Microsoft.EntityFrameworkCore;
+using Core.Specification;
 namespace Infrastructure.Data
 {
     public class GenericRepository<T> : IGenericRepository<T> where T : BaseEntity
@@ -19,6 +20,17 @@ namespace Infrastructure.Data
        public async Task<IReadOnlyList<T>> ListAllAsync(){
         return await _context.Set<T>().ToListAsync();
        }
+          public async  Task<T> GetEntityWithSpec(ISpecification<T> spec){
+               return await ApplySpecification(spec).FirstOrDefaultAsync();
+            }
+
+          public async Task<IReadOnlyList<T>> ListAsync(ISpecification<T> spec){
+                  return await ApplySpecification(spec).ToListAsync();
+         }
+
+         private IQueryable<T> ApplySpecification(ISpecification<T> spec){
+             return SpecificationEvalutor<T>.GetQuery(_context.Set<T>().AsQueryable(),spec);
+         }
 
     }
 }

@@ -1,26 +1,43 @@
 [
   {
     "Id": 1,
-    "Name": "Angular"
+    "Name": "Addidas"
   },
   {
     "Id": 2,
-    "Name": "NetCore"
+    "Name": "Nike"
   },
   {
     "Id": 3,
-    "Name": "VS Code"
+    "Name": "Realme"
   },
   {
     "Id": 4,
-    "Name": "React"
+    "Name": "Samsung"
   },
   {
     "Id": 5,
-    "Name": "Typescript"
+    "Name": "Dabur"
   },
   {
     "Id": 6,
-    "Name": "Redis"
+    "Name": "Amul"
+  },
+  {
+    "Id": 7,
+    "Name": "Peter England"
+  },
+  {
+    "Id": 8,
+    "Name": "Van Heusen"
+  },
+  {
+    "Id": 9,
+    "Name": "Dell"
+  },
+  {
+    "Id": 10,
+    "Name": "Lenovo"
   }
+
 ]

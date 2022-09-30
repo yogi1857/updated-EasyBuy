@@ -8,7 +8,9 @@ namespace Core.Specification
 {
     public class ProductsWithTypeAndBrandsSpecification : BaseSpecification<Product>
     {
-        public ProductsWithTypeAndBrandsSpecification(ProductSpecPrams productPrams):base(x => 
+        public ProductsWithTypeAndBrandsSpecification(ProductSpecPrams productPrams)
+        :base(x => 
+        (string.IsNullOrEmpty(productPrams.Search) || x.Name.ToLower().Contains(productPrams.Search)) &&
         (!productPrams.BrandId.HasValue || x.ProductBrandId == productPrams.BrandId) &&(!productPrams.TypeId.HasValue || x.ProductTypeId == productPrams.TypeId)
         
         )

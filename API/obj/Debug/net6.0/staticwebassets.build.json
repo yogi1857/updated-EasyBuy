@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "LjSZX7cx/eqyTiVFn55RDwSkcweRblZFv9u1qLaqB+4=",
+  "Hash": "zJtgJy0JS7sCfyWbI694sKlvqpI27QSvP1Hx3nCskfw=",
   "Source": "API",
   "BasePath": "_content/API",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "API\\wwwroot",
       "Source": "API",
-      "ContentRoot": "D:\\EasyBuy\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mohika\\OneDrive\\Desktop\\abc\\EasyBuy\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\EasyBuy\\API\\wwwroot\\images\\s.png",
+      "Identity": "C:\\Users\\mohika\\OneDrive\\Desktop\\abc\\EasyBuy\\API\\wwwroot\\images\\s.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\EasyBuy\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\mohika\\OneDrive\\Desktop\\abc\\EasyBuy\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "images/s.png",
       "AssetKind": "All",

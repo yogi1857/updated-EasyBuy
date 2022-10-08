@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\EasyBuy\\API\\API.csproj": {}
+    "C:\\Users\\mohika\\OneDrive\\Desktop\\abc\\EasyBuy\\API\\API.csproj": {}
   },
   "projects": {
-    "D:\\EasyBuy\\API\\API.csproj": {
+    "C:\\Users\\mohika\\OneDrive\\Desktop\\abc\\EasyBuy\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\EasyBuy\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\mohika\\OneDrive\\Desktop\\abc\\EasyBuy\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "D:\\EasyBuy\\API\\API.csproj",
-        "packagesPath": "C:\\Users\\sushi\\.nuget\\packages\\",
-        "outputPath": "D:\\EasyBuy\\API\\obj\\",
+        "projectPath": "C:\\Users\\mohika\\OneDrive\\Desktop\\abc\\EasyBuy\\API\\API.csproj",
+        "packagesPath": "C:\\Users\\mohika\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mohika\\OneDrive\\Desktop\\abc\\EasyBuy\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\sushi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mohika\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\EasyBuy\\Infrastructure\\Infrastructure.csproj": {
-                "projectPath": "D:\\EasyBuy\\Infrastructure\\Infrastructure.csproj"
+              "C:\\Users\\mohika\\OneDrive\\Desktop\\abc\\EasyBuy\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\mohika\\OneDrive\\Desktop\\abc\\EasyBuy\\Infrastructure\\Infrastructure.csproj"
               }
             }
           }
@@ -96,17 +96,17 @@
         }
       }
     },
-    "D:\\EasyBuy\\Core\\Core.csproj": {
+    "C:\\Users\\mohika\\OneDrive\\Desktop\\abc\\EasyBuy\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\EasyBuy\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\mohika\\OneDrive\\Desktop\\abc\\EasyBuy\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "D:\\EasyBuy\\Core\\Core.csproj",
-        "packagesPath": "C:\\Users\\sushi\\.nuget\\packages\\",
-        "outputPath": "D:\\EasyBuy\\Core\\obj\\",
+        "projectPath": "C:\\Users\\mohika\\OneDrive\\Desktop\\abc\\EasyBuy\\Core\\Core.csproj",
+        "packagesPath": "C:\\Users\\mohika\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mohika\\OneDrive\\Desktop\\abc\\EasyBuy\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\sushi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mohika\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -157,17 +157,17 @@
         }
       }
     },
-    "D:\\EasyBuy\\Infrastructure\\Infrastructure.csproj": {
+    "C:\\Users\\mohika\\OneDrive\\Desktop\\abc\\EasyBuy\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\EasyBuy\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\mohika\\OneDrive\\Desktop\\abc\\EasyBuy\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "D:\\EasyBuy\\Infrastructure\\Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\sushi\\.nuget\\packages\\",
-        "outputPath": "D:\\EasyBuy\\Infrastructure\\obj\\",
+        "projectPath": "C:\\Users\\mohika\\OneDrive\\Desktop\\abc\\EasyBuy\\Infrastructure\\Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\mohika\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mohika\\OneDrive\\Desktop\\abc\\EasyBuy\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\sushi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mohika\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -181,8 +181,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\EasyBuy\\Core\\Core.csproj": {
-                "projectPath": "D:\\EasyBuy\\Core\\Core.csproj"
+              "C:\\Users\\mohika\\OneDrive\\Desktop\\abc\\EasyBuy\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\mohika\\OneDrive\\Desktop\\abc\\EasyBuy\\Core\\Core.csproj"
               }
             }
           }

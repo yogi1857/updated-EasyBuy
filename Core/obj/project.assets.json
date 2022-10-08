@@ -1156,19 +1156,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\sushi\\.nuget\\packages\\": {}
+    "C:\\Users\\mohika\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\EasyBuy\\Core\\Core.csproj",
+      "projectUniqueName": "C:\\Users\\mohika\\OneDrive\\Desktop\\abc\\EasyBuy\\Core\\Core.csproj",
       "projectName": "Core",
-      "projectPath": "D:\\EasyBuy\\Core\\Core.csproj",
-      "packagesPath": "C:\\Users\\sushi\\.nuget\\packages\\",
-      "outputPath": "D:\\EasyBuy\\Core\\obj\\",
+      "projectPath": "C:\\Users\\mohika\\OneDrive\\Desktop\\abc\\EasyBuy\\Core\\Core.csproj",
+      "packagesPath": "C:\\Users\\mohika\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\mohika\\OneDrive\\Desktop\\abc\\EasyBuy\\Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\sushi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\mohika\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

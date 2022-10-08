@@ -48,7 +48,7 @@ namespace API
          {
           opt.AddPolicy("CorsPolicy",policy =>
           {
-            policy.AllowAnyHeader().AllowAnyMethod().WithOrigins("https://localhost:7261");
+            policy.AllowAnyHeader().AllowAnyMethod().AllowAnyOrigin();
           });
 
          });
@@ -63,16 +63,11 @@ namespace API
               
             
                 app.UseStatusCodePagesWithReExecute("/errors/{0}");
-            
+            app.UseHttpsRedirection();
 
             app.UseRouting();
             app.UseStaticFiles();
-            app.UseCors(x => x
-            .AllowAnyOrigin()
-            .AllowAnyMethod()
-            .AllowAnyHeader());
-
-            app.UseHttpsRedirection();
+            app.UseCors("CorsPolicy");
 
             app.UseAuthorization();
             app.UseSwaggerDocumentation();

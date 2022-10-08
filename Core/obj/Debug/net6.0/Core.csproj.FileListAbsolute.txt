@@ -34,3 +34,15 @@ C:\Users\mohika\OneDrive\Desktop\abc\EasyBuy\Core\obj\Debug\net6.0\Core.dll
 C:\Users\mohika\OneDrive\Desktop\abc\EasyBuy\Core\obj\Debug\net6.0\refint\Core.dll
 C:\Users\mohika\OneDrive\Desktop\abc\EasyBuy\Core\obj\Debug\net6.0\Core.pdb
 C:\Users\mohika\OneDrive\Desktop\abc\EasyBuy\Core\obj\Debug\net6.0\ref\Core.dll
+D:\new\EasyBuy\Core\bin\Debug\net6.0\Core.deps.json
+D:\new\EasyBuy\Core\bin\Debug\net6.0\Core.dll
+D:\new\EasyBuy\Core\bin\Debug\net6.0\Core.pdb
+D:\new\EasyBuy\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+D:\new\EasyBuy\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\new\EasyBuy\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+D:\new\EasyBuy\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+D:\new\EasyBuy\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+D:\new\EasyBuy\Core\obj\Debug\net6.0\Core.dll
+D:\new\EasyBuy\Core\obj\Debug\net6.0\refint\Core.dll
+D:\new\EasyBuy\Core\obj\Debug\net6.0\Core.pdb
+D:\new\EasyBuy\Core\obj\Debug\net6.0\ref\Core.dll

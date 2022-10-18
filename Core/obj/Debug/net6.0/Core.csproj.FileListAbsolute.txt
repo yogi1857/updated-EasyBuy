@@ -46,3 +46,15 @@ D:\new\EasyBuy\Core\obj\Debug\net6.0\Core.dll
 D:\new\EasyBuy\Core\obj\Debug\net6.0\refint\Core.dll
 D:\new\EasyBuy\Core\obj\Debug\net6.0\Core.pdb
 D:\new\EasyBuy\Core\obj\Debug\net6.0\ref\Core.dll
+D:\new\updated-EasyBuy\Core\bin\Debug\net6.0\Core.deps.json
+D:\new\updated-EasyBuy\Core\bin\Debug\net6.0\Core.dll
+D:\new\updated-EasyBuy\Core\bin\Debug\net6.0\Core.pdb
+D:\new\updated-EasyBuy\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+D:\new\updated-EasyBuy\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\new\updated-EasyBuy\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+D:\new\updated-EasyBuy\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+D:\new\updated-EasyBuy\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+D:\new\updated-EasyBuy\Core\obj\Debug\net6.0\Core.dll
+D:\new\updated-EasyBuy\Core\obj\Debug\net6.0\refint\Core.dll
+D:\new\updated-EasyBuy\Core\obj\Debug\net6.0\Core.pdb
+D:\new\updated-EasyBuy\Core\obj\Debug\net6.0\ref\Core.dll

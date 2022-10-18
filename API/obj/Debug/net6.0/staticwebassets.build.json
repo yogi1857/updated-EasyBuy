@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Xl91lLZfztNqmZ8eIHCeXxxZcQXYqW4MAxVJ6Ni7pss=",
+  "Hash": "ReH7Pyo5G3F4B/3IaD9ExNrjKwPI+6vzMUKKA0gqIIQ=",
   "Source": "API",
   "BasePath": "_content/API",
   "Mode": "Default",
@@ -10,17 +10,34 @@
     {
       "Name": "API\\wwwroot",
       "Source": "API",
-      "ContentRoot": "D:\\new\\EasyBuy\\API\\wwwroot\\",
+      "ContentRoot": "D:\\new\\updated-EasyBuy\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\new\\EasyBuy\\API\\wwwroot\\images\\Pshoes.jpg",
+      "Identity": "D:\\new\\updated-EasyBuy\\API\\wwwroot\\images\\ghee.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\new\\EasyBuy\\API\\wwwroot\\",
+      "ContentRoot": "D:\\new\\updated-EasyBuy\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "images/ghee.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\ghee.jpg"
+    },
+    {
+      "Identity": "D:\\new\\updated-EasyBuy\\API\\wwwroot\\images\\Pshoes.jpg",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\new\\updated-EasyBuy\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "images/Pshoes.jpg",
       "AssetKind": "All",
@@ -34,10 +51,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Pshoes.jpg"
     },
     {
-      "Identity": "D:\\new\\EasyBuy\\API\\wwwroot\\images\\realme 6.jpg",
+      "Identity": "D:\\new\\updated-EasyBuy\\API\\wwwroot\\images\\realme 6.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\new\\EasyBuy\\API\\wwwroot\\",
+      "ContentRoot": "D:\\new\\updated-EasyBuy\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "images/realme 6.jpg",
       "AssetKind": "All",
@@ -51,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\images\\realme 6.jpg"
     },
     {
-      "Identity": "D:\\new\\EasyBuy\\API\\wwwroot\\images\\realme 9 pro.webp",
+      "Identity": "D:\\new\\updated-EasyBuy\\API\\wwwroot\\images\\realme 9 pro.webp",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\new\\EasyBuy\\API\\wwwroot\\",
+      "ContentRoot": "D:\\new\\updated-EasyBuy\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "images/realme 9 pro.webp",
       "AssetKind": "All",
@@ -68,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\images\\realme 9 pro.webp"
     },
     {
-      "Identity": "D:\\new\\EasyBuy\\API\\wwwroot\\images\\realme 9.avif",
+      "Identity": "D:\\new\\updated-EasyBuy\\API\\wwwroot\\images\\realme 9.avif",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\new\\EasyBuy\\API\\wwwroot\\",
+      "ContentRoot": "D:\\new\\updated-EasyBuy\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "images/realme 9.avif",
       "AssetKind": "All",
@@ -85,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\images\\realme 9.avif"
     },
     {
-      "Identity": "D:\\new\\EasyBuy\\API\\wwwroot\\images\\realmetv.png",
+      "Identity": "D:\\new\\updated-EasyBuy\\API\\wwwroot\\images\\realmetv.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\new\\EasyBuy\\API\\wwwroot\\",
+      "ContentRoot": "D:\\new\\updated-EasyBuy\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "images/realmetv.png",
       "AssetKind": "All",
@@ -102,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\images\\realmetv.png"
     },
     {
-      "Identity": "D:\\new\\EasyBuy\\API\\wwwroot\\images\\realmew.avif",
+      "Identity": "D:\\new\\updated-EasyBuy\\API\\wwwroot\\images\\realmew.avif",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\new\\EasyBuy\\API\\wwwroot\\",
+      "ContentRoot": "D:\\new\\updated-EasyBuy\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "images/realmew.avif",
       "AssetKind": "All",
@@ -119,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\images\\realmew.avif"
     },
     {
-      "Identity": "D:\\new\\EasyBuy\\API\\wwwroot\\images\\s.png",
+      "Identity": "D:\\new\\updated-EasyBuy\\API\\wwwroot\\images\\s.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\new\\EasyBuy\\API\\wwwroot\\",
+      "ContentRoot": "D:\\new\\updated-EasyBuy\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "images/s.png",
       "AssetKind": "All",
@@ -136,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\images\\s.png"
     },
     {
-      "Identity": "D:\\new\\EasyBuy\\API\\wwwroot\\images\\s22.webp",
+      "Identity": "D:\\new\\updated-EasyBuy\\API\\wwwroot\\images\\s22.webp",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\new\\EasyBuy\\API\\wwwroot\\",
+      "ContentRoot": "D:\\new\\updated-EasyBuy\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "images/s22.webp",
       "AssetKind": "All",
@@ -153,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\images\\s22.webp"
     },
     {
-      "Identity": "D:\\new\\EasyBuy\\API\\wwwroot\\images\\vanheusen.jpg",
+      "Identity": "D:\\new\\updated-EasyBuy\\API\\wwwroot\\images\\vanheusen.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\new\\EasyBuy\\API\\wwwroot\\",
+      "ContentRoot": "D:\\new\\updated-EasyBuy\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "images/vanheusen.jpg",
       "AssetKind": "All",
@@ -170,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\images\\vanheusen.jpg"
     },
     {
-      "Identity": "D:\\new\\EasyBuy\\API\\wwwroot\\images\\washingmachine.webp",
+      "Identity": "D:\\new\\updated-EasyBuy\\API\\wwwroot\\images\\washingmachine.webp",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\new\\EasyBuy\\API\\wwwroot\\",
+      "ContentRoot": "D:\\new\\updated-EasyBuy\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "images/washingmachine.webp",
       "AssetKind": "All",

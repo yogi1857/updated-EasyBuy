@@ -2840,11 +2840,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\new\\EasyBuy\\API\\API.csproj",
+      "projectUniqueName": "D:\\new\\updated-EasyBuy\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "D:\\new\\EasyBuy\\API\\API.csproj",
+      "projectPath": "D:\\new\\updated-EasyBuy\\API\\API.csproj",
       "packagesPath": "C:\\Users\\sushi\\.nuget\\packages\\",
-      "outputPath": "D:\\new\\EasyBuy\\API\\obj\\",
+      "outputPath": "D:\\new\\updated-EasyBuy\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sushi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2861,8 +2861,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\new\\EasyBuy\\Infrastructure\\Infrastructure.csproj": {
-              "projectPath": "D:\\new\\EasyBuy\\Infrastructure\\Infrastructure.csproj"
+            "D:\\new\\updated-EasyBuy\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "D:\\new\\updated-EasyBuy\\Infrastructure\\Infrastructure.csproj"
             }
           }
         }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\new\\EasyBuy\\Core\\Core.csproj": {}
+    "D:\\new\\updated-EasyBuy\\Core\\Core.csproj": {}
   },
   "projects": {
-    "D:\\new\\EasyBuy\\Core\\Core.csproj": {
+    "D:\\new\\updated-EasyBuy\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\new\\EasyBuy\\Core\\Core.csproj",
+        "projectUniqueName": "D:\\new\\updated-EasyBuy\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "D:\\new\\EasyBuy\\Core\\Core.csproj",
+        "projectPath": "D:\\new\\updated-EasyBuy\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\sushi\\.nuget\\packages\\",
-        "outputPath": "D:\\new\\EasyBuy\\Core\\obj\\",
+        "outputPath": "D:\\new\\updated-EasyBuy\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sushi\\AppData\\Roaming\\NuGet\\NuGet.Config",

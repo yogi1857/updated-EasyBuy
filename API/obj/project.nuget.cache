@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1Al3bvZPG9nGR1y9X09Eityb+tP+3YHBjKh+1tD07Db1yOY0zVLWp5QXCLUYh85ZSZDVg9p9JwmWetboEDCZZQ==",
+  "dgSpecHash": "nFl1WL/PDYiyNFN+EnYin9fBf1ZpXBe4V8MDHYt84rOznddkrsZL+notSd6xbhHk7ao44hGc0fGYJvRKW0iIBQ==",
   "success": true,
-  "projectFilePath": "D:\\new\\EasyBuy\\API\\API.csproj",
+  "projectFilePath": "D:\\new\\updated-EasyBuy\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sushi\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\sushi\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",

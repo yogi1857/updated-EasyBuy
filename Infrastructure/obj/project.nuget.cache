@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fDux9czWovY2ykJX8JURsBmJnMRxT52sHOI0aMZW3kW+JIgUUv+oG1397agDV6OuhJJb/BfG1TvlQSRjRNaswQ==",
+  "dgSpecHash": "26Gb72o08G1rb4PTu1LVUURnDmUaZnvaZLBSRlflWMwDk393swU8hCgMb2M94AXrpjgyWJzHVSf5KkzjQkkIjQ==",
   "success": true,
-  "projectFilePath": "D:\\new\\EasyBuy\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "D:\\new\\updated-EasyBuy\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sushi\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.8\\microsoft.data.sqlite.core.6.0.8.nupkg.sha512",
     "C:\\Users\\sushi\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.8\\microsoft.entityframeworkcore.6.0.8.nupkg.sha512",
